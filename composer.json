@@ -1,0 +1,22 @@
+{
+    "name": "grummfy/php-debugbar-clervercloud",
+    "description": "Adding information from instance running on clever cloud for the php debugbar",
+    "keywords": ["debugbar", "debug", "clever cloud"],
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "maximebf/debugbar": "^1.10.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Grummfy",
+            "email": "me@grummfy.be"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Grummfy\\DebugBar\\": "src/"
+        }
+    }
+}
