@@ -1,5 +1,5 @@
 {
-    "name": "grummfy/php-debugbar-clervercloud",
+    "name": "grummfy/php-debugbar-clevercloud",
     "description": "Adding information from instance running on clever cloud for the php debugbar",
     "keywords": ["debugbar", "debug", "clevercloud", "clever-cloud"],
     "type": "library",
